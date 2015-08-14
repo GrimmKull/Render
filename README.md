@@ -6,8 +6,8 @@ You can find the original Render middleware [here](https://github.com/codegangst
 
 This implementation uses:
 
-* [Amber](https://github.com/eknkc/amber") for templates
-* [Blackfriday](https://github.com/russross/blackfriday") for Markdown
+* [Amber](https://github.com/eknkc/amber) for templates
+* [Blackfriday](https://github.com/russross/blackfriday) for Markdown
 
 Make sure that the markdown files are stored in a markdown folder.
 
